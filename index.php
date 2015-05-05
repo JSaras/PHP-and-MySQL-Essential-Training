@@ -17,7 +17,6 @@
 
         echo $stefan->get_name();
         echo $jeff->get_name();
-        phpinfo();
         
      ?>
 
